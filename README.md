@@ -1,5 +1,11 @@
 # 💫 About Me:
-Iam Fresher i did a internship where i worked as cloud application developer.<br>
+ Hi there, I'm Dhana Laxmi 👋
+
+🎓 Electronics & Communication Engineering (ECE) graduate - 2023
+☁️ Fresher | Completed an internship as a **Cloud Application Developer** (AWS)  
+🌱 Currently building my skills further in Cloud Computing and looking for full-time opportunities  
+💞️ Open to collaborating on cloud-based projects  
+📍 Based in Hyderabad, India.<br>
 
 
 ## 🌐 Socials:
